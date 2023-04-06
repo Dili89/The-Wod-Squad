@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>The Wod Squad</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+  </head>
+  <body>
+    <header>
+      <h1>The Wod Squad</h1>
+      <nav>
+        <ul>
+          <li><a href="#about">About</a></li>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section id="about">
+        <h2>About Us</h2>
+        <p>The Wod Squad is a fitness program that focuses on high-intensity interval training (HIIT) and functional movements. Our goal is to help people achieve their fitness goals and improve their overall health and well-being.</p>
+      </section>
+      <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+          <li>Group fitness classes</li>
+          <li>Personal training sessions</li>
+          <li>Nutritional coaching</li>
+        </ul>
+      </section>
+      <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Get in touch with us to schedule a class or ask a question:</p>
+        <ul>
+          <li>Phone: 555-1234</li>
+          <li>Email: info@thewodsquad.com</li>
+          <li>Address: 123 Main St, Anytown USA</li>
+        </ul>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; 2023 The Wod Squad. All rights reserved.</p>
+    </footer>
+  </body>
+</html>
